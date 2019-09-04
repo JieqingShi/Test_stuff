@@ -40,6 +40,7 @@ Maschine.Hatch.Geoeffnet.Aktiv,4
 Maschine.Hatch.Geschlossen.Laufzeit,4
 Maschine.Hatch.Geoeffnet.Laufzeit,4
 Maschine.KSS,
+Maschine.KSS.Mainvalve,
 Maschine.KSS.Mainvalve.On,4
 Maschine.KSS.Pumpe,
 Maschine.KSS.Pumpe.Drehmoment,4
