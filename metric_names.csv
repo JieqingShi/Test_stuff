@@ -111,6 +111,7 @@ Maschine.Absaugung,2
 Maschine.Absaugung.Druck,3
 Maschine.BAZ,2
 Maschine.BAZ.Flush,3
+Maschine.BAZ.Flush.AR,
 Maschine.BAZ.Flush.AR.On,5
 Maschine.BAZ.BDE,3
 Maschine.BAZ.BDE.Code,4
